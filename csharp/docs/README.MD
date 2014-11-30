@@ -1,0 +1,1 @@
+charp folder hosts a collection of utility projects relevant to IoT integration with Azure cloud.
